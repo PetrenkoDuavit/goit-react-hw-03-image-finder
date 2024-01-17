@@ -1,7 +1,7 @@
 {
   "name": "react-homework-template",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://PetrenkoDuavit.github.io/goit-react-hw-03-image-finder",
   "dependencies": {
     "@emotion/styled": "^11.10.6",
